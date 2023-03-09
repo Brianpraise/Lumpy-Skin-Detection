@@ -26,7 +26,10 @@ The first symptom noted is usually swelling, as the bone becomes enlarged and ho
 2. Flask
 
 
-#How the system looks like
-[Interface,uploaded image & results](https://drive.google.com/drive/folders/1cCyzxVHU-LQ9mbAKpnYBMRZK5L6d5FaA)
+# How the system looks like:
 
-E:\Brianpraise\Brianpraise\lumpy prediction\Cow-Lumpy-Prediction-CNN\lumpy disease system interface
+[Interface,uploaded image & results](https://drive.google.com/drive/folders/1cCyzxVHU-LQ9mbAKpnYBMRZK5L6d5FaA)
+![results](https://user-images.githubusercontent.com/92367684/223967429-a9ab93f0-1fad-42ae-93f0-67225a91e4fc.jpg)
+![uploaded image](https://user-images.githubusercontent.com/92367684/223967443-4e8379a6-4f2b-4e26-aa2c-03cd7c8155ad.jpg)
+
+
