@@ -28,3 +28,5 @@ The first symptom noted is usually swelling, as the bone becomes enlarged and ho
 
 #How the system looks like
 [Interface,uploaded image & results](https://drive.google.com/drive/folders/1cCyzxVHU-LQ9mbAKpnYBMRZK5L6d5FaA)
+
+E:\Brianpraise\Brianpraise\lumpy prediction\Cow-Lumpy-Prediction-CNN\lumpy disease system interface
