@@ -24,3 +24,7 @@ The first symptom noted is usually swelling, as the bone becomes enlarged and ho
 
 1. Python
 2. Flask
+
+
+#How the system looks like
+[Interface,uploaded image & results](https://drive.google.com/drive/folders/1cCyzxVHU-LQ9mbAKpnYBMRZK5L6d5FaA)
