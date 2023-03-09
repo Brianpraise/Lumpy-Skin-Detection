@@ -27,9 +27,12 @@ The first symptom noted is usually swelling, as the bone becomes enlarged and ho
 
 
 # How the system looks like:
-
-[Interface,uploaded image & results](https://drive.google.com/drive/folders/1cCyzxVHU-LQ9mbAKpnYBMRZK5L6d5FaA)
-![results](https://user-images.githubusercontent.com/92367684/223967429-a9ab93f0-1fad-42ae-93f0-67225a91e4fc.jpg)
+#1.Interface
+![interface](https://user-images.githubusercontent.com/92367684/223968173-1b7edb36-f7b1-4e55-8ff0-13ca94d15cac.jpg)
+#2.Uploaded image
 ![uploaded image](https://user-images.githubusercontent.com/92367684/223967443-4e8379a6-4f2b-4e26-aa2c-03cd7c8155ad.jpg)
+#3.Results
+![results](https://user-images.githubusercontent.com/92367684/223967429-a9ab93f0-1fad-42ae-93f0-67225a91e4fc.jpg)
+
 
 
